@@ -1,4 +1,3 @@
-# 閾値を80%に設定
 def msv1(data, thresh=20, color='black', edgecolor='black', width=15, height=3):
     """
     SOURCE: https://www.kaggle.com/amiiiney/price-prediction-regularization-stacking
