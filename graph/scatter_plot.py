@@ -1,0 +1,8 @@
+plt.figure(figsize=(15,6))
+plt.scatter(x=a['future'], y=a['target'], color='crimson', alpha=0.5)
+plt.title('title', weight='bold', fontsize=16)
+plt.xlabel('future_label', weight='bold', fontsize=12)
+plt.ylabel('target_label', weight='bold', fontsize=12)
+plt.xticks(weight='bold')
+plt.yticks(weight='bold')
+plt.show()
