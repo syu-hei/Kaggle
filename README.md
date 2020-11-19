@@ -1,1 +1,1 @@
-# kaggleで使える関数
+# Kaggle-Functions
